@@ -8,6 +8,9 @@ UI Rendering: Ensure the game UI updates dynamically to reflect the current game
   
 </ul>
 
+![image](https://github.com/kmishraa/tic-tac-toe/assets/104066423/fd92d908-c7ec-4971-ae4a-541d87f5ab2c)
+
+
 
 
 
